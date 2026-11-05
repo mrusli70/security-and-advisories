@@ -17,6 +17,8 @@ https://catalog.update.microsoft.com/home.aspx
 
 https://www.microsoft.com/en-us/security/blog/
 
+https://msrc.microsoft.com/update-guide
+
 https://www.microsoft.com/en-us/msrc
 
 https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/
