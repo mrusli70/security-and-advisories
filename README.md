@@ -221,3 +221,5 @@ https://www.asuswrt-merlin.net/
 
 https://www.asus.com/sg/support/download-center/
 
+https://app.opencve.io/cve/?vendor=eero
+
