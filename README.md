@@ -382,3 +382,5 @@ https://github.com/ernw/hardening/blob/master/operating_system/osx/26/Hardening_
 https://newosxbook.com/files/moxii3/AppendixA.pdf
 
 https://www.scribd.com/document/350811757/nsa-gov-macosx-10-6-hardeningtips-pdf
+
+http://download.101com.com/pub/gcn/newspics/NSA_HardeningTips_MacOSx.pdf
