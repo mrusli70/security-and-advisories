@@ -75,8 +75,6 @@ https://fortiguard.fortinet.com/threat-map
 
 https://www.defconlevel.com/cyber-threat-maps
 
-# Others
-https://www.secpoint.com/top-10-most-secure-operating-systems.html
 https://attackmap.sonicwall.com/live-attack-map/
 
 https://isc.sans.edu/data/threatmap.html
@@ -89,5 +87,9 @@ https://horizon.netscout.com/
 
 https://cybersecuritynews.com/cyber-attack-maps/
 
+# Others
+
+https://www.secpoint.com/top-10-most-secure-operating-systems.html
 
 
+# Others
