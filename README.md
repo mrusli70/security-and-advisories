@@ -281,6 +281,10 @@ https://app.opencve.io/cve/?q=vendor%3Asynology
 
 https://app.opencve.io/cve/?q=vendor%3Afreenas
 
+https://app.opencve.io/cve/?q=vendor%3Atp-link
+
+https://app.opencve.io/cve/?q=vendor%3Aasus
+
 https://www.hackerone.com/
 
 https://www.bugcrowd.com/
