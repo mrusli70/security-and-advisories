@@ -50,6 +50,8 @@ https://www.csa.gov.sg/
 
 https://www.csa.gov.sg/our-programmes/certification-and-labelling-schemes/cybersecurity-labelling-scheme/about/
 
+https://www.csa.gov.sg/our-programmes/certification-and-labelling-schemes/cybersecurity-labelling-scheme/cls-items/?filters=%5B%7B%22id%22%3A%22Status%22%2C%22items%22%3A%5B%7B%22id%22%3A%22Active%22%7D%5D%7D%5D&page=1
+
 https://securelist.com/
 
 https://auscert.org.au/
