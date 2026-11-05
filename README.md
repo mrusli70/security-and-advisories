@@ -24,6 +24,9 @@ https://app.opencve.io/cve/?product=solaris&vendor=oracle
 
 https://www.oracle.com/security-alerts/
 
+# Ubuntu
+https://ubuntu.com/security/notices
+
 # Computer Security Blog
 https://www.bleepingcomputer.com/
 
