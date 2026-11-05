@@ -394,3 +394,7 @@ https://apple.stackexchange.com/questions/89565/disable-screen-sharing-via-the-c
 https://developer.apple.com/documentation/devicemanagement/enableremotedesktopresponse
 
 https://support.apple.com/en-sg/guide/remote-desktop/apd7fb20a4c/mac
+
+https://developer.apple.com/documentation/devicemanagement/disable-remote-desktop-command.md
+
+https://www.stigviewer.com/stigs/apple_macos_26_tahoe/2026-05-23/finding/V-277139
