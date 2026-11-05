@@ -312,3 +312,5 @@ https://www.proxmox.com/en/
 https://getutm.app/
 
 https://www.qemu.org/
+
+https://www.parallels.com/
