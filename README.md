@@ -287,6 +287,8 @@ https://app.opencve.io/cve/?q=vendor%3Aasus
 
 https://app.opencve.io/cve/?q=vendor%3Alinksys
 
+https://app.opencve.io/cve/?q=vendor%3Apeplink
+
 https://www.hackerone.com/
 
 https://www.bugcrowd.com/
