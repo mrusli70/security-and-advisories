@@ -356,3 +356,9 @@ https://www.hanynet.com/icefloor/
 http://opendoor.biz/doorstop/DSXUsersGuide.html#toc
 
 https://support.apple.com/en-us/103229
+
+https://security.apple.com/
+
+https://support.apple.com/en-sg/guide/security/welcome/web
+
+https://support.apple.com/en-sg/guide/certifications/apc322685bb2/web
