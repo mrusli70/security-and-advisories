@@ -343,4 +343,9 @@ https://www.virustotal.com/gui/home/upload
 
 https://www.vmware.com/docs/vmwcb-datasheet-endpoint-standard
 
+https://www.sophos.com/en-us/free-tools/sophos-xg-firewall-home-edition
+
+https://www.sophos.com/en-us/products/hitmanpro
+
+https://github.com/dragokas/hijackthis
 
