@@ -73,7 +73,7 @@ https://openwrt.org/
 
 https://firmware-selector.openwrt.org/
 
-# DDWRT
+# DD-WRT
 https://dd-wrt.com/
 
 # Fresh Tomatos
