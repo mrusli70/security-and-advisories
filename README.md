@@ -38,7 +38,6 @@ https://www.oracle.com/security-alerts/public-vuln-to-advisory-mapping.html
 
 https://blogs.oracle.com/security/
 
-
 https://linuxsecurity.com/advisories/oracle
 
 # Ubuntu
@@ -48,6 +47,17 @@ https://ubuntu.com/security/notices
 https://access.redhat.com/security/updates/advisory
 
 https://access.redhat.com/security/security-updates/security-advisories
+
+# Pfsense Security Advisories
+https://docs.netgate.com/advisories/index.html
+
+https://redmine.pfsense.org/
+
+# OPNsense Release 
+https://docs.opnsense.org/releases.html
+
+# IPFire Blog
+https://www.ipfire.org/blog
 
 # Computer Security Blog
 https://www.bleepingcomputer.com/
