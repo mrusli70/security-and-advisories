@@ -326,3 +326,5 @@ https://brew.sh/
 https://www.csit.gov.sg/tech-blog
 
 https://www.stengg.com/en/cybersecurity/products/
+
+https://inteltechniques.com/book7
