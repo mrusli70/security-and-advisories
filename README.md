@@ -372,3 +372,11 @@ https://mrmacintosh.com/
 https://osxdaily.com/
 
 https://csrc.nist.gov/CSRC/media/Publications/sp/800-179/rev-1/draft/documents/sp800-179r1-draft.pdf
+
+https://larrytalkstech.com/wp-content/uploads/2014/06/macosx_10_6_hardeningtips_2-pdf-1024x777.jpg
+
+https://larrytalkstech.com/wp-content/uploads/2014/06/macosx_10_6_hardeningtips_1_pdf-900x690.jpg
+
+https://github.com/ernw/hardening/blob/master/operating_system/osx/26/Hardening_Guide-macOS_26_Tahoe_1.0.md
+
+https://newosxbook.com/files/moxii3/AppendixA.pdf
