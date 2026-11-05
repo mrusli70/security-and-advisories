@@ -362,3 +362,11 @@ https://security.apple.com/
 https://support.apple.com/en-sg/guide/security/welcome/web
 
 https://support.apple.com/en-sg/guide/certifications/apc322685bb2/web
+
+https://kitploit.com/en/tools/github/drduh/macos-security-and-privacy-guide
+
+https://www.bejarano.io/hardening-macos/
+
+https://mrmacintosh.com/
+
+https://osxdaily.com/
