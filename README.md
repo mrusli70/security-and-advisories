@@ -98,7 +98,7 @@ https://cloud.google.com/blog/topics/threat-intelligence
 
 https://www.schneier.com/
 
-https://www.eset.com/blog/en/
+
 
 # Threat Map
 https://threatmap.bitdefender.com/
