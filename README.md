@@ -391,3 +391,4 @@ https://support.apple.com/en-sg/guide/mac-help/mh11848/27/mac/27
 
 https://apple.stackexchange.com/questions/89565/disable-screen-sharing-via-the-command-line-in-mountain-lion
 
+https://developer.apple.com/documentation/devicemanagement/enableremotedesktopresponse
