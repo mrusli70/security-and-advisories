@@ -400,3 +400,5 @@ https://developer.apple.com/documentation/devicemanagement/disable-remote-deskto
 https://www.stigviewer.com/stigs/apple_macos_26_tahoe/2026-05-23/finding/V-277139
 
 https://www.tenable.com/audits/items/CIS_Apple_macOS_14.0_Sonoma_v3.1.0_L1.audit:17092c4fca0554c1d244c5848cbd8ab7
+
+https://osxdaily.com/2016/08/16/enable-ssh-mac-command-line/
