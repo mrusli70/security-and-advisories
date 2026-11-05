@@ -60,6 +60,8 @@ https://redmine.pfsense.org/
 # OPNsense Release 
 https://docs.opnsense.org/releases.html
 
+https://www.zenarmor.com/docs/opnsense
+
 # IPFire Blog
 https://www.ipfire.org/blog
 
