@@ -15,6 +15,10 @@ https://support.apple.com/en-us/100100
 # Microsoft Update Catalog
 https://catalog.update.microsoft.com/home.aspx
 
+https://www.microsoft.com/en-us/security/blog/
+
+https://www.microsoft.com/en-us/msrc
+
 # Computer Security Blog
 https://www.bleepingcomputer.com/
 
