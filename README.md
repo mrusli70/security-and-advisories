@@ -27,6 +27,11 @@ https://www.oracle.com/security-alerts/
 # Ubuntu
 https://ubuntu.com/security/notices
 
+# Red Hat
+https://access.redhat.com/security/updates/advisory
+
+https://access.redhat.com/security/security-updates/security-advisories
+
 # Computer Security Blog
 https://www.bleepingcomputer.com/
 
