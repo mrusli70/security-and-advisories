@@ -183,3 +183,11 @@ https://distrowatch.com/
 https://windowsreport.com/
 
 https://www.phoronix.com/
+
+https://support.hpe.com/km/security-bulletin#sortCriteria=%40hpescuniversaldate%20descending&f-kmdoclanguagecode=cv1871440
+
+https://community.ui.com/releases
+
+https://ui.com/download
+
+https://www.gl-inet.com/
