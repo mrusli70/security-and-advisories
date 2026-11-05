@@ -64,6 +64,8 @@ https://www.eset.com/blog/en/
 
 https://www.protectstar.com/en/blog
 
+https://cloud.google.com/blog/topics/threat-intelligence
+
 # Threat Map
 https://threatmap.bitdefender.com/
 
