@@ -328,3 +328,17 @@ https://www.csit.gov.sg/tech-blog
 https://www.stengg.com/en/cybersecurity/products/
 
 https://inteltechniques.com/book7
+
+https://www.emsisoft.com/en/
+
+https://www.emsisoft.com/en/blog/
+
+https://av-test.org/en/
+
+https://av-comparatives.org/
+
+https://virusbulletin.com/testing/vb100/
+
+https://www.virustotal.com/gui/home/upload
+
+
