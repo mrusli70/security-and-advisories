@@ -341,4 +341,6 @@ https://virusbulletin.com/testing/vb100/
 
 https://www.virustotal.com/gui/home/upload
 
+https://www.vmware.com/docs/vmwcb-datasheet-endpoint-standard
+
 
