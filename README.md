@@ -19,6 +19,11 @@ https://www.microsoft.com/en-us/security/blog/
 
 https://www.microsoft.com/en-us/msrc
 
+# Oracle
+https://app.opencve.io/cve/?product=solaris&vendor=oracle
+
+https://www.oracle.com/security-alerts/
+
 # Computer Security Blog
 https://www.bleepingcomputer.com/
 
