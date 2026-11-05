@@ -370,3 +370,5 @@ https://www.bejarano.io/hardening-macos/
 https://mrmacintosh.com/
 
 https://osxdaily.com/
+
+https://csrc.nist.gov/CSRC/media/Publications/sp/800-179/rev-1/draft/documents/sp800-179r1-draft.pdf
