@@ -60,6 +60,10 @@ https://obdev.at/products/littlesnitch/index.html
 
 https://www.murusfirewall.com/
 
+https://www.eset.com/blog/en/
+
+https://www.protectstar.com/en/blog
+
 # Threat Map
 https://threatmap.bitdefender.com/
 
@@ -95,3 +99,6 @@ https://www.secpoint.com/top-10-most-secure-operating-systems.html
 
 https://objective-see.org/
 
+https://defcon.org/
+
+https://www.sans.org/sg_en
