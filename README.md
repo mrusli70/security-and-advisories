@@ -384,3 +384,8 @@ https://newosxbook.com/files/moxii3/AppendixA.pdf
 https://www.scribd.com/document/350811757/nsa-gov-macosx-10-6-hardeningtips-pdf
 
 http://download.101com.com/pub/gcn/newspics/NSA_HardeningTips_MacOSx.pdf
+
+https://support.apple.com/en-sg/guide/remote-desktop/apd8b1c65bd/mac
+
+https://support.apple.com/en-sg/guide/mac-help/mh11848/27/mac/27
+
