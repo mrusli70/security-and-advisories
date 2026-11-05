@@ -66,6 +66,8 @@ https://www.protectstar.com/en/blog
 
 https://cloud.google.com/blog/topics/threat-intelligence
 
+https://www.schneier.com/
+
 # Threat Map
 https://threatmap.bitdefender.com/
 
@@ -94,6 +96,7 @@ https://threats.cyronixsecurity.com/threat-map
 https://horizon.netscout.com/
 
 https://cybersecuritynews.com/cyber-attack-maps/
+
 
 # Others
 
