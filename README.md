@@ -147,3 +147,23 @@ https://citizenlab.ca/
 https://bloggers.feedspot.com/cyber_security_blogs/
 
 https://live.paloaltonetworks.com/t5/blogs/ct-p/Blogs
+
+https://networkingdocs.hpe.com/documentation/us/en/software/jsi/juniper-support-insights-user-guide/jsi-jcloud-user-guide/topics/topic-map/advisories.html
+
+https://networkingdocs.hpe.com/documentation/us/en/software/mist/mist-management/shared-content/topics/task/subscribe-alerts.html
+
+https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-ise-XU5EwX5T
+
+https://sec.cloudapps.cisco.com/security/center/publicationListing.x
+
+https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-ise-XU5EwX5T
+
+https://www.cisco.com/c/en/us/support/security/identity-services-engine/products-security-advisories-list.html
+
+https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-snmpv3-qKEYvzsy
+
+https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-snmpv3-qKEYvzsy
+
+https://www.fortiguard.com/psirt
+
+https://www.fortinet.com/fortiguard/outbreak-alert
