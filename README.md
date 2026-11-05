@@ -40,6 +40,10 @@ https://blogs.oracle.com/security/
 
 https://linuxsecurity.com/advisories/oracle
 
+https://www.oracle.com/security-alerts/
+
+https://www.oracle.com/security-alerts/public-vuln-to-advisory-mapping.html
+
 # Ubuntu
 https://ubuntu.com/security/notices
 
