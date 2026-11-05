@@ -65,6 +65,9 @@ https://www.zenarmor.com/docs/opnsense
 # IPFire Blog
 https://www.ipfire.org/blog
 
+# Synology security advisories
+https://www.synology.com/en-global/security/advisory
+
 # Computer Security Blog
 https://www.bleepingcomputer.com/
 
@@ -197,3 +200,7 @@ https://community.ui.com/releases
 https://ui.com/download
 
 https://www.gl-inet.com/
+
+https://www.zenarmor.com/docs/category/pfsense-software
+
+
