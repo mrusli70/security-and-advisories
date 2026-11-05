@@ -314,3 +314,9 @@ https://getutm.app/
 https://www.qemu.org/
 
 https://www.parallels.com/
+
+https://bsdrp.net/
+
+https://www.macports.org/
+
+https://brew.sh/
