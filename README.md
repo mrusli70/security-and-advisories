@@ -24,6 +24,13 @@ https://app.opencve.io/cve/?product=solaris&vendor=oracle
 
 https://www.oracle.com/security-alerts/
 
+https://linux.oracle.com/ords/f?p=1105:21
+
+https://linux.oracle.com/ords/f?p=1130:21
+
+https://docs.oracle.com/en/operating-systems/oracle-linux/uln/uln-TrackSecurityUpdatesandErrataReleases.html#track-updates-errata
+
+
 https://linuxsecurity.com/advisories/oracle
 
 # Ubuntu
