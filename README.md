@@ -206,3 +206,18 @@ https://www.zenarmor.com/docs/category/pfsense-software
 https://www.truenas.com/freenas/
 
 https://nostarch.com/catalog.htm
+
+https://www.netgear.com/security/advisories/
+
+https://app.opencve.io/cve/?vendor=linksys
+
+https://support.linksys.com/kb/article/924-en/
+
+https://www.tp-link.com/us/product-security/security-advisory/
+
+https://www.asus.com/security-advisory/
+
+https://www.asuswrt-merlin.net/
+
+https://www.asus.com/sg/support/download-center/
+
