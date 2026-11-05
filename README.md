@@ -68,6 +68,11 @@ https://www.ipfire.org/blog
 # Synology security advisories
 https://www.synology.com/en-global/security/advisory
 
+# OpenWRT
+https://openwrt.org/
+
+https://firmware-selector.openwrt.org/
+
 # Computer Security Blog
 https://www.bleepingcomputer.com/
 
@@ -222,4 +227,6 @@ https://www.asuswrt-merlin.net/
 https://www.asus.com/sg/support/download-center/
 
 https://app.opencve.io/cve/?vendor=eero
+
+https://app.opencve.io/cve/?q=vendor%3Aasus
 
