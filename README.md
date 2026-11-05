@@ -404,3 +404,5 @@ https://www.tenable.com/audits/items/CIS_Apple_macOS_14.0_Sonoma_v3.1.0_L1.audit
 https://osxdaily.com/2016/08/16/enable-ssh-mac-command-line/
 
 https://apple.stackexchange.com/questions/2488/start-stop-internet-sharing-from-a-script
+
+https://macuser.org.uk/2025/12/01/how-to-setup-file-share-using-terminal/
