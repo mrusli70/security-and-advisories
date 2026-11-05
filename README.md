@@ -71,13 +71,14 @@ https://www.synology.com/en-global/security/advisory
 # OpenWRT
 https://openwrt.org/
 
+https://firmware-selector.openwrt.org/
+
 # DDWRT
 https://dd-wrt.com/
 
 # Fresh Tomatos
 https://freshtomato.org/
 
-https://firmware-selector.openwrt.org/
 
 # Computer Security Blog
 https://www.bleepingcomputer.com/
