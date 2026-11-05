@@ -71,6 +71,12 @@ https://www.synology.com/en-global/security/advisory
 # OpenWRT
 https://openwrt.org/
 
+# DDWRT
+https://dd-wrt.com/
+
+# Fresh Tomatos
+https://freshtomato.org/
+
 https://firmware-selector.openwrt.org/
 
 # Computer Security Blog
@@ -230,3 +236,4 @@ https://app.opencve.io/cve/?vendor=eero
 
 https://app.opencve.io/cve/?q=vendor%3Aasus
 
+https://www.gargoyle-router.com/
