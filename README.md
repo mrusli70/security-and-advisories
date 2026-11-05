@@ -301,4 +301,14 @@ https://routersecurity.org/
 
 https://www.grc.com/intro.htm
 
+https://portswigger.net/
+
+https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
+
+https://www.virtualbox.org/
+
+https://www.proxmox.com/en/
+
+https://getutm.app/
+
 
