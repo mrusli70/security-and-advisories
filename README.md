@@ -115,3 +115,5 @@ https://blackhat.com/index.html
 https://citizenlab.ca/
 
 https://bloggers.feedspot.com/cyber_security_blogs/
+
+https://live.paloaltonetworks.com/t5/blogs/ct-p/Blogs
