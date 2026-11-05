@@ -19,6 +19,8 @@ https://www.microsoft.com/en-us/security/blog/
 
 https://www.microsoft.com/en-us/msrc
 
+https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/
+
 # Oracle
 https://app.opencve.io/cve/?product=solaris&vendor=oracle
 
@@ -29,6 +31,12 @@ https://linux.oracle.com/ords/f?p=1105:21
 https://linux.oracle.com/ords/f?p=1130:21
 
 https://docs.oracle.com/en/operating-systems/oracle-linux/uln/uln-TrackSecurityUpdatesandErrataReleases.html#track-updates-errata
+
+https://www.oracle.com/security-alerts/
+
+https://www.oracle.com/security-alerts/public-vuln-to-advisory-mapping.html
+
+https://blogs.oracle.com/security/
 
 
 https://linuxsecurity.com/advisories/oracle
