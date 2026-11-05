@@ -117,6 +117,8 @@ https://securelist.com/
 
 https://auscert.org.au/
 
+https://opensnitch.org/
+
 https://obdev.at/products/littlesnitch/index.html
 
 https://www.murusfirewall.com/
