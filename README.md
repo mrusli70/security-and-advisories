@@ -322,3 +322,5 @@ https://bsdrp.net/
 https://www.macports.org/
 
 https://brew.sh/
+
+https://www.csit.gov.sg/tech-blog
