@@ -26,6 +26,8 @@ https://thehackernews.com/
 
 https://hackread.com/
 
+https://www.crowdstrike.com/en-us/blog/
+
 https://www.sentinelone.com/blog/category/macos-security-sentinelone/
 
 https://www.lumen.com/blog-and-news/en-us/black-lotus-labs
