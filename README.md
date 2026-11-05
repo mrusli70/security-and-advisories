@@ -380,3 +380,5 @@ https://larrytalkstech.com/wp-content/uploads/2014/06/macosx_10_6_hardeningtips_
 https://github.com/ernw/hardening/blob/master/operating_system/osx/26/Hardening_Guide-macOS_26_Tahoe_1.0.md
 
 https://newosxbook.com/files/moxii3/AppendixA.pdf
+
+https://www.scribd.com/document/350811757/nsa-gov-macosx-10-6-hardeningtips-pdf
