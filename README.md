@@ -169,3 +169,7 @@ https://www.fortiguard.com/psirt
 https://www.fortinet.com/fortiguard/outbreak-alert
 
 https://distrowatch.com/
+
+https://windowsreport.com/
+
+https://www.phoronix.com/
