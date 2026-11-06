@@ -293,6 +293,16 @@ https://app.opencve.io/cve/?q=vendor%3Alinksys
 
 https://app.opencve.io/cve/?q=vendor%3Apeplink
 
+https://app.opencve.io/cve/?vendor=mikrotik
+
+https://app.opencve.io/cve/?q=vendor%3Asonicwall
+
+https://app.opencve.io/cve/?q=vendor%3A3com
+
+https://app.opencve.io/cve/?q=vendor%3Ahp
+
+https://app.opencve.io/cve/?q=vendor%3Afedora
+
 https://www.hackerone.com/
 
 https://www.bugcrowd.com/
