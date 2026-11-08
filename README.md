@@ -170,6 +170,8 @@ https://www.osirisai.live/?layers=maritime,satellites,cctv,cctv_previews,live_ne
 
 https://www.flightradar24.com/1.05,103.15/9
 
+https://map.flights/#7.6/1.35/103.8
+
 # Others
 
 https://www.secpoint.com/top-10-most-secure-operating-systems.html
