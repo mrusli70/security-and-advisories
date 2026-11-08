@@ -172,6 +172,8 @@ https://www.flightradar24.com/1.05,103.15/9
 
 https://map.flights/#7.6/1.35/103.8
 
+https://www.marinetraffic.com/en/ais/home/centerx:88.6/centery:-1.0/zoom:3
+
 # Others
 
 https://www.secpoint.com/top-10-most-secure-operating-systems.html
