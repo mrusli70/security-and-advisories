@@ -164,6 +164,9 @@ https://horizon.netscout.com/
 
 https://cybersecuritynews.com/cyber-attack-maps/
 
+# Other Maps
+
+https://www.osirisai.live/?layers=maritime,satellites,cctv,cctv_previews,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval,wind_controls,rain_controls
 
 # Others
 
