@@ -174,6 +174,8 @@ https://map.flights/#7.6/1.35/103.8
 
 https://www.marinetraffic.com/en/ais/home/centerx:88.6/centery:-1.0/zoom:3
 
+https://www.vesselfinder.com/
+
 # Others
 
 https://www.secpoint.com/top-10-most-secure-operating-systems.html
