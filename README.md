@@ -176,6 +176,8 @@ https://www.marinetraffic.com/en/ais/home/centerx:88.6/centery:-1.0/zoom:3
 
 https://www.vesselfinder.com/
 
+https://satellitetrack.app/?sat=14699
+
 https://satellitemap.space/
 
 https://satellitetracker3d.com/
