@@ -176,6 +176,10 @@ https://www.marinetraffic.com/en/ais/home/centerx:88.6/centery:-1.0/zoom:3
 
 https://www.vesselfinder.com/
 
+https://satellitemap.space/
+
+https://satellitetracker3d.com/
+
 # Others
 
 https://www.secpoint.com/top-10-most-secure-operating-systems.html
